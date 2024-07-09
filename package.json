@@ -8,6 +8,8 @@
     "start": "electron .",
     "watch": "nodemon --exec electron ."
   },
+  "repository": "https://github.com/franchescofamous/electron-build.git",
+  "homepage": "https://github.com/franchescofamous/electron-build.git",
   "author": "famous",
   "license": "MIT",
   "devDependencies": {
